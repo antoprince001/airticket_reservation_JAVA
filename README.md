@@ -1,7 +1,7 @@
 # airticket_reservation_JAVA
 
 Implementation of Airticket reservation system using Java Swing components through Netbeans. 
-GUI based ticket booking system.
+GUI based ticket booking system. The application is connected via jdbc driver to connect to the sql database.
 
 ![Capture](https://user-images.githubusercontent.com/47826916/90601270-9201bf00-e215-11ea-9010-30fc38e430d8.JPG)
 
